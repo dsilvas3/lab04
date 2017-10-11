@@ -189,14 +189,6 @@ textarea {
   max-width: 100%;
 }
 
-img {
-    	display: block;
-    	margin: auto;
-   	 width: 10%;
-	
-  
-	
-}
 /* ===== BASE STYLES ===== */
 
 /*
@@ -220,13 +212,13 @@ body{
 	
     color: black;
     font-family: 'Poiret One', cursive;
-    background-color: white;
-    text-align:center;
+    background-color: #7a7676;
     border-style: dotted;
 }
 h1{
-	color:green;
+	color:Black;
 	font-family: 'Ribeye Marrow', cursive;
+	font-size: 2.31em;
 }
 textarea {
   font-size: 14px;
@@ -238,9 +230,6 @@ textarea {
   border: none;
 }
 
-body {
-	background-color: #7a7676;
-}
 
 /* ===== LAYOUT STYLES ====== */
 input[type="email"]{
