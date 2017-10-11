@@ -238,17 +238,12 @@ textarea {
 }
 
 body {
-	background-color: #F0F0F0;
+	background-color: #7a7676;
 }
 
 /* ===== LAYOUT STYLES ====== */
 input[type="email"]{
   padding-bottom: 1.2em;
-}
-input[type="checkbox"] {
-  height: 1em;
-  width: 1em;
-float: left;
 }
 
 input {
