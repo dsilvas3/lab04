@@ -112,6 +112,14 @@ legend {
   white-space: normal; /* 1 */
 }
 
+input[type=text], input[type=date] {
+    width: 100%;
+    padding: 8px 10px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    background-color: #d6d6c2;
+}
+
 /**
  * 1. Add the correct display in IE 9-.
  * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
