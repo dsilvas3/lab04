@@ -236,6 +236,26 @@ textarea {
   margin-bottom: 10px;
   border: none;
 }
+
+body {
+	background-color: #F0F0F0;
+}
+form li {
+  padding-bottom: 10px;
+}
+input[type="checkbox"] {
+  height: 30px;
+  width: 30pc;
+  float: left;
+  color: #B0B0B0;
+
+}
+#age-verification {
+  display: block;
+  padding-left: 10px;
+  float: center;
+  width: 100px;
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
